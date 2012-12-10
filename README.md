@@ -1,4 +1,4 @@
-Blog-Repository
+Blog Repository
 ===============
 
-Repository for blog resurces
+Repository for blog resources...
